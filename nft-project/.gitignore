@@ -1,0 +1,10 @@
+# Secrets and sensitive information
+.secret
+.env
+
+# Other common files to ignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
